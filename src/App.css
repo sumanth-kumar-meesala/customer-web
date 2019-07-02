@@ -1,0 +1,10 @@
+.right{
+  position: absolute;
+  right: 0;
+}
+
+.loading {
+  position: fixed;
+  top: 45%;
+  left: 45%;
+}
